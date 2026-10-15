@@ -67,3 +67,6 @@ git tag v1.0.0 && git push origin v1.0.0
 ## License
 
 MIT, see `LICENSE`.
+
+
+> **Moved:** the mod now lives at https://github.com/kashwtv/nebula — updater is the `updater/` folder there.
